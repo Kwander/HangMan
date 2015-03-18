@@ -12,7 +12,7 @@ class Hangman
 	end
 
 	def game
-		hp = 5
+		hp = 6
 		word = "lapas"
 		letters = word.split(//)
 
